@@ -1,6 +1,6 @@
 # GTA 5 Hand Gesture Control
 
-This project allows you to control **GTA 5** using hand gestures. The code was originally written two years ago, so it is recommended to use **Python 3.11** for compatibility. For environment management, we suggest using [astral-uv](https://github.com/astral-uv/astral-uv).
+This project allows you to control **GTA 5** using hand gestures. The code was originally written two years ago, so it is recommended to use **Python 3.11** for compatibility. For environment management, I suggest using [astral-uv](https://github.com/astral-uv/astral-uv).
 
 ## Setup
 
@@ -31,3 +31,6 @@ This repository also contains gesture-controlled scripts for other games. You ca
 | Pin Ball Demo                              | Road Rage Demo                               |
 | ------------------------------------------ | -------------------------------------------- |
 | ![Pin Ball Demo](./demo/pin_ball_demo.gif) | ![Road Rage Demo](./demo/road_rage_demo.gif) |
+
+
+> Contributions are welcome :p
