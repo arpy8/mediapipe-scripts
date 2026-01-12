@@ -1,0 +1,10 @@
+[project]
+name = "gta5-gesturess"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mediapipe>=0.10.31",
+    "opencv-python>=4.12.0.88",
+    "pydirectinput>=1.0.4",
+]
