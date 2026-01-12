@@ -24,18 +24,10 @@ This project allows you to control **GTA 5** using hand gestures. The code was o
 
 This repository also contains gesture-controlled scripts for other games. You can explore them in the [old branch](https://github.com/arpy8/mediapipe-scripts/tree/old).
 
-### Chrome Dino Demo
+| Chrome Dino Demo                                 | Motor Driver Demo                                 |
+| ------------------------------------------------ | ------------------------------------------------- |
+| ![Chrome Dino Demo](./demo/chrome_dino_demo.gif) | ![Motor Driver Demo](./demo/moto_driver_demo.gif) |
 
-![Chrome Dino Demo](./demo/chrome_dino_demo.mp4)
-
-### Motor Driver Demo
-
-![Motor Driver Demo](./demo/motor_driver_demo.mp4)
-
-### Pin Ball Demo
-
-![Pin Ball Demo](./demo/pin_ball_demo.mp4)
-
-### Road Rage Demo
-
-![Road Rage Demo](./demo/road_rage_demo.mp4)
+| Pin Ball Demo                              | Road Rage Demo                               |
+| ------------------------------------------ | -------------------------------------------- |
+| ![Pin Ball Demo](./demo/pin_ball_demo.gif) | ![Road Rage Demo](./demo/road_rage_demo.gif) |
